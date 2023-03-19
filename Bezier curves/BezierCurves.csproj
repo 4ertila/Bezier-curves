@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A1E5B08E-83D9-4CEE-87E2-7DEFCDE60FF5}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>BezierCurves</RootNamespace>
     <AssemblyName>BezierCurves</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
