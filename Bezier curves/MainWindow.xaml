@@ -236,7 +236,7 @@
             Height="30"
             VerticalAlignment="Top"
             HorizontalAlignment="Left"
-            Margin="1238,83,0,0"
+            Margin="1238,48,0,0"
                           
             SelectedColorChanged="ColorPicker_ColorAllPoints_SelectedColorChanged"/>
 
@@ -267,7 +267,7 @@
             Height="30"
             VerticalAlignment="Top"
             HorizontalAlignment="Left"
-            Margin="1238,48,0,0"
+            Margin="1238,83,0,0"
                           
             SelectedColorChanged="ColorPicker_ColorAllCurves_SelectedColorChanged"/>
 
