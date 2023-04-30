@@ -220,6 +220,7 @@ namespace BezierCurves
                     parsedPoint.color = points[pointID].color;
                     parsedPoint.swmColor = points[pointID].swmColor;
                     points[pointID] = parsedPoint;
+                    UpdateBezierCurves();
                     glControl.Invalidate();
                 }
                 catch { }
